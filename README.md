@@ -23,7 +23,10 @@
    Install the inquirer package before usage.
    
 
-   ## License
+   ## Develop
+   ![image](https://user-images.githubusercontent.com/111103755/212564826-75ffcd10-6c7e-41ba-b04f-9a036ca93998.png)
+
+github: https://github.com/lexi-scott/README-Generator 
 
    ## License
       This project is licensed under the MIT license.
