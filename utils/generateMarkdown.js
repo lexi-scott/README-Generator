@@ -39,11 +39,11 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   * [Installation](#installation)
-  ${renderLicenseLink(data.license)}
-  *[Usage](#usage)
-  *[Constributing](#constributing)
-  *[Tests](#tests)
-  *[Questions](#questions)
+  * [License] ${renderLicenseLink(data.license)}
+  * [Usage](#usage)
+  * [Constributing](#constributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
   To install dependencies run the command:
